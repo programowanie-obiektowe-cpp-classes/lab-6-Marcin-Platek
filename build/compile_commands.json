@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/marci/Desktop/STUDIA/II_sem_magisterka/Programowanie_Obiektowe_C++/lab-6-Marcin-Platek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zal.dir\\test.cpp.obj -c C:\\Users\\marci\\Desktop\\STUDIA\\II_sem_magisterka\\Programowanie_Obiektowe_C++\\lab-6-Marcin-Platek\\test.cpp",
+  "file": "C:/Users/marci/Desktop/STUDIA/II_sem_magisterka/Programowanie_Obiektowe_C++/lab-6-Marcin-Platek/test.cpp",
+  "output": "CMakeFiles/zal.dir/test.cpp.obj"
+},
+{
+  "directory": "C:/Users/marci/Desktop/STUDIA/II_sem_magisterka/Programowanie_Obiektowe_C++/lab-6-Marcin-Platek/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zal.dir\\test_main.cpp.obj -c C:\\Users\\marci\\Desktop\\STUDIA\\II_sem_magisterka\\Programowanie_Obiektowe_C++\\lab-6-Marcin-Platek\\test_main.cpp",
+  "file": "C:/Users/marci/Desktop/STUDIA/II_sem_magisterka/Programowanie_Obiektowe_C++/lab-6-Marcin-Platek/test_main.cpp",
+  "output": "CMakeFiles/zal.dir/test_main.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/STUDIA/II_sem_magisterka/Programowanie_Obiektowe_C++/lab-6-Marcin-Platek/build/CMakeFiles/zal.dir
+C:/Users/marci/Desktop/STUDIA/II_sem_magisterka/Programowanie_Obiektowe_C++/lab-6-Marcin-Platek/build/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/STUDIA/II_sem_magisterka/Programowanie_Obiektowe_C++/lab-6-Marcin-Platek/build/CMakeFiles/rebuild_cache.dir
